@@ -30,5 +30,5 @@ team is fully aware of the way these models work)
 5- Try different Visualization graphs for each Model 
 6- Search for getting another available data which can apply it into the model
 
-Course Module Leader: Dr. Mahmoud Mounir
+Course Module Leader: Dr. Mahmoud Mounir<br>
 Course TAs: Esraa Karam
